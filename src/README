@@ -1,0 +1,5 @@
+To run the code, use the command python3 processor.py from the src directory.
+
+This will create multiple figures showing the different steps of my image processing pipeline and save the final image to output.png and output.jpeg.
+
+The current code uses the rggb Bayer pattern and multiply white balancing, which can be adjusted by the user if other white balancing techniques or Bayer patterns wanted to be tested, along with varying the brightness adjustment values.
